@@ -14,7 +14,9 @@
 
 5- Corrigir o arquivo FormulárioCadastroRP.jsx para que o formulário fique visível e assim conseguir executar o roteiro.
 **
+<br>
 <img width="232" height="242" alt="image" src="https://github.com/user-attachments/assets/0dad66c8-c0ac-4620-ab32-00799a44838b" />
+<br>
 **
   - Atenção: Não precisa estilizar
 
